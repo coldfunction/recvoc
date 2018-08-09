@@ -1,0 +1,3 @@
+dog@狗
+cat@貓
+apple@蘋果
