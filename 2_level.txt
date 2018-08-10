@@ -1,15 +1,33 @@
+abide@忍受 遵守
+regulation@法令
+secretary@秘書
+aboard@搭乘(火車、船等交通工具) 在～上(prep);  上(車、船、飛機)(adv)
+cabin@船/飛機的 客艙
+abolish@廢除 廢止(v)
+abolition@廢除(n)
+scholar@學者
+aboriginal@原住民的 土著的 土生的
+aborigine@土著居民 原住民
+deprived@被剝奪的 貧困的
+abnormal@反常的
+stewardess@(客機、輪船)女服務員
 actress@女演員
 playground@操場
-dog@狗
-cat@貓
-apple@蘋果
-August@八月
-cage@籠子
 Hierarchical@分層
-camp@露營
-cap@無邊帽
-January@一月
-cousin@表兄弟姊妹
 fisherman@漁夫
-castle@城堡
 mailman@郵差
+castle@城堡
+cousin@表兄弟姊妹
+cap@無邊帽
+camp@露營
+cage@籠子
+prosperity@興旺、繁榮
+enormous@巨大的、龐大的
+abandon@放棄 拋棄 (v)
+abandoned@被拋棄的(adj)
+struggle@努力 奮鬥
+abbey@修道院
+abbreviate@縮寫(v)
+abbreviation@縮寫 (n)
+crew@水手 船員
+flood@洪水、水災
