@@ -1,2 +1,2 @@
 # recvoc
-A simple python code to demo hierarchical-memorize vocabulary words
+A simple python code to demo spaced repetition flashcard
