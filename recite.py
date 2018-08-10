@@ -20,6 +20,13 @@ def insert_line(index, line, myfile):
 	f = open(myfile, "r")
 	contents = f.readlines()
 	f.close()
+	#print(contents)
+	#print(myfile)
+	#if not contents:
+		#f = open(myfile, "w")
+		#f.write(line)	
+		#f.close()
+
 	contents.insert(index, line)
 	f = open(myfile, "w")
 	contents = "".join(contents)
@@ -27,11 +34,11 @@ def insert_line(index, line, myfile):
 	f.close()
 
 
-def recite_voc():
-	fp = open("1_level.txt", "r")
-	lines = fp.readlines()
-	numOflines = len(lines)
-	fp.close()
+#def recite_voc():
+#	fp = open("1_level.txt", "r")
+#	lines = fp.readlines()
+#	numOflines = len(lines)
+#	fp.close()
 	
 def move_level(src, dst, num):
 	fp = open(src, "r")
@@ -39,22 +46,26 @@ def move_level(src, dst, num):
 	length = len(lines)
 	move_lines = []
 
-	for i in range(length-1, length-11, -1):
-		if i < 0:
+	#for i in range(length-1, length-11, -1):
+	#	if i < 0:
+	#		break
+	#	move_lines.append(lines[i])
+	#	print(lines[i])
+
+	for i in range(0, num):
+		if i > length-1:
 			break
 		move_lines.append(lines[i])
-		print(lines[i])
 
-	length = len(move_lines)
+	#length = len(move_lines)
 	fp.close()
 
 	fp = open(src, "w")
-	for i in range(0, length-10):
+	for i in range(num, length):
 		fp.write(lines[i])
 	fp.close()
 	
 	append_lines(move_lines, dst)
-
 	
 
 def recite_voc():
@@ -62,15 +73,24 @@ def recite_voc():
 	lines = fp.readlines()
 	numOflines = len(lines)
 	fp.close()
-	fp = open("1_level.txt", "w")
 
 	temp_lines = []
 	move_lines = []
 
 	if numOflines == 0 :
+		fpp = open("2_level.txt", "r")
+		nlines = fpp.readlines()
+		if len(nlines) == 0:
+			print("Please insert new voc!!\n")
+			fpp.close()
+			return
+		fpp.close()
 		#from, to, nums
 		move_level("2_level.txt", "1_level.txt", 10)
 		recite_voc()
+		return
+	
+	fp = open("1_level.txt", "w")
 
 	for line in lines:
 		os.system('clear')
@@ -85,8 +105,9 @@ def recite_voc():
 		else:
 			move_lines.append(line)
 			print("yes it should move out")
-						
 	fp.close()
+	
 	insert_lines(temp_lines, 0, "1_level.txt")
 	append_lines(move_lines, "2_level.txt")
-	
+
+
