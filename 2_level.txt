@@ -1,8 +1,3 @@
-January@一月
-farmer@農夫
-cousin@表兄弟姊妹
-fisherman@漁夫
-castle@城堡
 actress@女演員
 playground@操場
 dog@狗
@@ -13,4 +8,8 @@ cage@籠子
 Hierarchical@分層
 camp@露營
 cap@無邊帽
+January@一月
+cousin@表兄弟姊妹
+fisherman@漁夫
+castle@城堡
 mailman@郵差

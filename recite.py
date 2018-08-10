@@ -48,8 +48,8 @@ def move_level(src, dst, num):
 	append_lines(move_lines, dst)
 	
 
-def recite_voc():
-	fp = open("1_level.txt", "r")
+def recite_voc(f_level1, f_level2):
+	fp = open(f_level1, "r")
 	lines = fp.readlines()
 	numOflines = len(lines)
 	fp.close()
@@ -58,19 +58,18 @@ def recite_voc():
 	move_lines = []
 
 	if numOflines == 0 :
-		fpp = open("2_level.txt", "r")
+		fpp = open(f_level2, "r")
 		nlines = fpp.readlines()
 		if len(nlines) == 0:
 			print("Please insert new voc!!\n")
 			fpp.close()
-			return
+			return False
 		fpp.close()
 		#from, to, nums
-		move_level("2_level.txt", "1_level.txt", 10)
-		recite_voc()
-		return
-	
-	fp = open("1_level.txt", "w")
+		move_level(f_level2, f_level1, 10)
+		return recite_voc(f_level1, f_level2)
+		
+	fp = open(f_level1, "w")
 
 	for line in lines:
 		os.system('clear')
@@ -87,7 +86,7 @@ def recite_voc():
 			print("yes it should move out")
 	fp.close()
 	
-	insert_lines(temp_lines, 0, "1_level.txt")
-	append_lines(move_lines, "2_level.txt")
-
+	insert_lines(temp_lines, 0, f_level1)
+	append_lines(move_lines, f_level2)
+	return True
 
