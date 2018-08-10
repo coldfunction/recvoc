@@ -13,11 +13,3 @@ def input_vocabulary(myfile):
 	fid.write('\n')  
 	fid.close() 
 	return entw
-
-#entw = input_vocabulary()
-#print(entw)
-
-#fid = open('test.txt', 'a')  
-#fid.write(entw)  
-#fid.write('\n')  
-#fid.close() 
