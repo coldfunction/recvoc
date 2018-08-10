@@ -20,25 +20,12 @@ def insert_line(index, line, myfile):
 	f = open(myfile, "r")
 	contents = f.readlines()
 	f.close()
-	#print(contents)
-	#print(myfile)
-	#if not contents:
-		#f = open(myfile, "w")
-		#f.write(line)	
-		#f.close()
 
 	contents.insert(index, line)
 	f = open(myfile, "w")
 	contents = "".join(contents)
 	f.write(contents)
 	f.close()
-
-
-#def recite_voc():
-#	fp = open("1_level.txt", "r")
-#	lines = fp.readlines()
-#	numOflines = len(lines)
-#	fp.close()
 	
 def move_level(src, dst, num):
 	fp = open(src, "r")
@@ -46,18 +33,11 @@ def move_level(src, dst, num):
 	length = len(lines)
 	move_lines = []
 
-	#for i in range(length-1, length-11, -1):
-	#	if i < 0:
-	#		break
-	#	move_lines.append(lines[i])
-	#	print(lines[i])
-
 	for i in range(0, num):
 		if i > length-1:
 			break
 		move_lines.append(lines[i])
 
-	#length = len(move_lines)
 	fp.close()
 
 	fp = open(src, "w")
