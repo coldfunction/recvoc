@@ -1,33 +1,135 @@
+abortion@流產 墮胎
 abide@忍受 遵守
 regulation@法令
 secretary@秘書
-aboard@搭乘(火車、船等交通工具) 在～上(prep);  上(車、船、飛機)(adv)
-cabin@船/飛機的 客艙
+ruin@破壞
+absorbing@極有趣的
 abolish@廢除 廢止(v)
 abolition@廢除(n)
 scholar@學者
 aboriginal@原住民的 土著的 土生的
 aborigine@土著居民 原住民
-deprived@被剝奪的 貧困的
+cabin@船/飛機的 客艙
+aboard@搭乘(火車、船等交通工具) 在～上(prep);  上(車、船、飛機)(adv)
 abnormal@反常的
 stewardess@(客機、輪船)女服務員
-actress@女演員
+absurd@荒謬(唐)的 不合理的
 playground@操場
 Hierarchical@分層
 fisherman@漁夫
 mailman@郵差
 castle@城堡
 cousin@表兄弟姊妹
-cap@無邊帽
-camp@露營
-cage@籠子
+actress@女演員
 prosperity@興旺、繁榮
 enormous@巨大的、龐大的
-abandon@放棄 拋棄 (v)
-abandoned@被拋棄的(adj)
 struggle@努力 奮鬥
 abbey@修道院
 abbreviate@縮寫(v)
+abandon@放棄 拋棄 (v)
+cage@籠子
+cap@無邊帽
+camp@露營
 abbreviation@縮寫 (n)
-crew@水手 船員
 flood@洪水、水災
+abrupt@突然的
+deprived@被剝奪的 貧困的
+abruptly@突然地
+sudden@突然的
+absence@缺席不在
+absent@缺席的 不在的
+absolute@完全的 絕對的
+crime@犯罪
+abandoned@被拋棄的(adj)
+crew@水手 船員
+absolutely@完全地 絕對地
+forbidden@被禁止的
+moisture@濕氣 水分
+abstract@抽象的
+abstraction@心不在焉 抽象概念
+bravery@勇敢
+abundant@豐富的 富有的
+blessing@福氣
+abundance@豐富 充足
+academic@學術的 學院的
+accent@重音 腔調 口音 (n) 在～上標重音(v)
+syllable@音節
+outfit@配備
+accident@意外n
+accidental@意外的
+accidentally@意外地
+accomplish@完成 達成 達到
+accomplishment@才藝 成就 成果 完成
+according@根據(to/as); 相符的
+account@帳戶 說明n. 解釋 認為vi.
+accordingly@因此 於是adv.
+acceptance@接受n.
+accounting@會計學
+rapid@快的 迅速的
+capable@有能力 有技能的
+accumulate@累積 聚集 積成堆v
+accumulation@累積 積聚 累積物 n.
+dust@灰塵
+sweep@掃 打掃
+property@財產U 屬性C
+accurate@精確的 正確的
+accuracy@精確
+acknowledgement@感謝n
+aid@幫助
+deaf@聾的 不願聽的
+action@動作 行動 Actions speak louder than words.
+activity@(各種的)活動 活力
+actor@男演員
+active@積極的 活躍的
+promptly@敏捷地 迅速地
+adapt@使適應於～ 改編
+additionally@此外adv
+novel@小說
+adaptation@適應 改編(本) 
+acute@敏銳的 劇烈的
+dull@不鮮明的adj 使遲鈍 變得遲鈍
+acknowledge@感謝 承認 vt
+act@行為 法令 幕n. 行動 表演v.
+acreage@英畝數
+acre@英畝
+acoustic@聽覺的
+acquaint@使(人)熟悉～
+acuqaintance@相識的人 相識
+acquisition@獲得 獲得物
+acquire@獲得 學會 養成(習慣)v.
+accurately@精確地
+accuse@控告(人) 指控 譴責
+corruption@腐敗 墮落 貪污
+ache@疼痛 渴望 v/n
+fever@發燒 發熱n 使發燒 使高度興奮vt 發燒 高度興奮 vi
+bone@骨頭
+achieve@完成
+achievement@成就
+accusation@指控 控訴n.
+accustom@使習慣於(常後接oneself或用被動式) I am accustomed to getting up early
+journalist@記者
+acid@酸的adj 酸n
+academy@學院
+consultation@諮詢；商議；診察(n) （磋商）會議；會診[C]
+appoint@任命，指派
+accompany@陪伴 伴隨 跟隨 使附帶
+accord@一致 符合 v. His behavior does not accord with his principles
+accountant@會計師n.
+accountable@負有責任的
+accordance@一致 依據n. He did not act in accordance with the orders
+addict@使～上癮 使沈溺 使醉心vt. 對～有癮的人
+addiction@沈迷 入迷 成癮 上癮 n
+address@對(某人)說話或演說 寄信給～; 稱呼 v. 住址 演說 n
+adhere@黏附
+glue@膠水
+envelope@信封
+adjective@形容詞
+adjoin@鄰接
+adept@熟練的
+adequately@足夠地 充分地
+adequacy@適當 足夠
+adequate@足夠的
+accommodate@能容納 能提供～膳宿v
+accommodation@住處 住宿 膳宿 n
+abroad@在國外地
+absorb@吸收
